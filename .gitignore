@@ -33,6 +33,7 @@ MANIFEST
 .DS_Store
 matplotlib_practice.ipynb
 PyBer_Challenge_starter_code.ipynb
+chart_extras.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
