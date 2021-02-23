@@ -32,7 +32,7 @@ MANIFEST
 ## Uneccessary/local only resources & files
 .DS_Store
 matplotlib_practice.ipynb
-PyBer_Challenge_starter_code.ipynb # starter code orginal copy
+PyBer_Challenge_starter_code.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
