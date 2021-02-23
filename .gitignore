@@ -31,9 +31,12 @@ MANIFEST
 ## OS generated files
 ## Uneccessary/local only resources & files
 .DS_Store
+chart_extras.ipynb
 matplotlib_practice.ipynb
 PyBer_Challenge_starter_code.ipynb
-chart_extras.ipynb
+PyBer_ride_data.ipynb
+PyBer.ipynb
+resources/PyBer_ride_data.csv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
